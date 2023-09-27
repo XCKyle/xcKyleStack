@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST="{}"
+self.__REACT_LOADABLE_MANIFEST="{\"..\\\\components\\\\devtools.tsx -> @textea/json-viewer\":{\"id\":\"..\\\\components\\\\devtools.tsx -> @textea/json-viewer\",\"files\":[\"static/chunks/node_modules_textea_json-viewer_dist_index_mjs.js\"]}}"
