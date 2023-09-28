@@ -1,6 +1,6 @@
 'use client'
 
-import type { ModularBlock } from '@xc/ui/Contentstack'
+import type { ModularBlock } from 'components'
 import 'react-responsive-carousel/lib/styles/carousel.min.css'
 import { Carousel } from 'react-responsive-carousel'
 import { IconArrowLeft } from '@tabler/icons-react'
